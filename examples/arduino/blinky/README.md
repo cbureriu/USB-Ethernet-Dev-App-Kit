@@ -20,7 +20,7 @@ Arduino v1.8.9
 
 ## History
 
-TODO: Write history
+initial release
 
 ## Credits
 

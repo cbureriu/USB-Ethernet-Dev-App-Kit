@@ -4,7 +4,7 @@ blink the on-board LED
 
 ## Hardware
 
-USB+Ethernet Dev/App Kit - v1
+USB+Ethernet Dev/App Kit
 
 ## Software
 

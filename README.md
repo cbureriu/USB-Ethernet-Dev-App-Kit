@@ -22,10 +22,6 @@ Keil uVision v5 IDE (coming soon)
 
 Cristian Bureriu
 
-## References
-
-Arduino
-
 ## License
 
 The library and code examples are licensed under a Creative Commons Attribution-ShareAlike 3.0 license.

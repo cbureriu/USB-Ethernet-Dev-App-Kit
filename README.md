@@ -1,6 +1,5 @@
 # USB+Ethernet Dev/App Kit
-
-## Library & Examples
+# Library & Examples
 
 ### Compatibility
 

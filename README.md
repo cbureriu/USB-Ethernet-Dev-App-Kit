@@ -5,5 +5,9 @@
 ### Compatibility
 
 Arduino
+
 Keil uVision (soon)
 
+### Credits
+
+Cristian Bureriu

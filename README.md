@@ -1,3 +1,3 @@
-# usb-ethernet-dev-app-kit
+# USB+Ethernet Dev/App Kit
 
 ## Library & Examples

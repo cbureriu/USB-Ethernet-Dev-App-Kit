@@ -12,8 +12,6 @@ Keil uVision v5 IDE (coming soon)
 
 Cristian Bureriu
 
-  independent developer
-
 ### External References
 
 Arduino

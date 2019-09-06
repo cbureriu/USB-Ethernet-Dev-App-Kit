@@ -28,4 +28,4 @@ Arduino
 
 ## License
 
-The library is licensed under a Creative Commons Attribution-ShareAlike 3.0 License. Code examples are released into the public domain.
+The library and code examples are licensed under a Creative Commons Attribution-ShareAlike 3.0 license.

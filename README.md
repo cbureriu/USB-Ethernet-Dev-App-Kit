@@ -22,11 +22,9 @@ Keil uVision v5 IDE (coming soon)
 
 Cristian Bureriu
 
-## External References
+## References
 
 Arduino
-
-Adafruit
 
 ## License
 

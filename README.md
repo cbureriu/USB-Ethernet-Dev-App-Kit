@@ -4,15 +4,17 @@
 
 ### Compatibility
 
-Arduino
+Arduino IDE
 
-Keil uVision (soon)
+Keil uVision v5 IDE (coming soon)
 
 ### Credits
 
 Cristian Bureriu
 
-### References
+  independent developer
+
+### External References
 
 Arduino
 

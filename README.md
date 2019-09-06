@@ -11,3 +11,9 @@ Keil uVision (soon)
 ### Credits
 
 Cristian Bureriu
+
+### References
+
+Arduino
+
+Adafruit
